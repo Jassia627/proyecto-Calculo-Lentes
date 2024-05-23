@@ -7,4 +7,4 @@ if __name__ == "__main__":
     mainWin = IntelligentLensSystem()
     mainWin.show()
     sys.exit(app.exec_())
-    #########EW####
+    #########EW####asdasd
